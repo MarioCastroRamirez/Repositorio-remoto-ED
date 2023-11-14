@@ -6,7 +6,6 @@ def adivinar_numero():
     num = random.randint(1, 10)
     num_usuario = 0
     vidas = 0
-    print("PEDREROL CHURRERO")
     while num_usuario != num:
         num_usuario = str(input("Escribe un número (del 1 al 10) -->"))
 
