@@ -1,4 +1,5 @@
 #HE HECHO UNA MODIFICACIÓN @MAIKEL_RICH
+#PREDEROL CHURERRO
 
 import random
 
@@ -25,7 +26,7 @@ def adivinar_numero():
                 print(f"Correcto! el número es el {num}")
                 print(f"Numero de intentos {vidas + 1}")
         else:
-            print(f"Perdiste, no lo adivinaste en 3 intentos, el numero era {num}")
+            print(f"VAYA PEDAZO DE MARICÓN, el numero era {num}")
             break
 
 advinar_numero()
