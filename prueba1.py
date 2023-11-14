@@ -1,3 +1,5 @@
+#HE HECHO UNA MODIFICACIÓN @MAIKEL_RICH
+
 import random
 
 def adivinar_numero():
